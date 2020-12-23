@@ -11,7 +11,7 @@ example2_original.mp3
 example3_original.mp3
 example4_original.mp3
 
-automatically composed music pieces;
+Automatically composed music pieces;
 TurkishMarch_composed.mp3
 example1_composed.mp3
 example2_composed.mp3
